@@ -5,7 +5,7 @@ custom_phrase:
   enable_sentence: false
   initial_quality: 1
   user_dict: custom_phrase
-customization: 1293413465
+customization: 3258785554
 editor:
   bindings:
     space: toggle_selection
@@ -156,7 +156,7 @@ schema:
     
   name: "注音"
   schema_id: bopomofo
-  version: 2.0.custom.1293413465
+  version: 2.0.custom.3258785554
 speller:
   algebra:
     - "erase/^xx$/"
