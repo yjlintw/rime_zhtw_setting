@@ -1,0 +1,108 @@
+# Rime dictionary
+# encoding: utf-8
+#
+# Terra Pinyin Extended Dictionary(Chinese Classical Poetry) - 地球拼音擴充詞庫（個人雜字詞庫）
+#
+#   道滿(zhtw) <zhtw2013@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 於重新部署後生效
+#
+
+---
+name: terra_pinyin.my
+version: "2015.08.04"
+sort: by_weight
+use_preset_vocabulary: true
+...
+
+一	yi2	
+一下	yi2 xia4	
+一天		
+一半		
+一件		
+一次		
+一直	yi4 zhi2		
+一時		
+一起	yi4 qi3	
+一開始	yi4 kai1 shi3		
+一篇		
+一鍵		
+一鍵還原		
+夕	xi4	
+分享器
+以量制價		
+去死團		
+可憐的孩子		
+可攜	ke3 xi1	
+奶奶		
+正體		
+正體中文 		
+正體中文化
+仿譯		
+因為		
+地雷		
+安卓		
+血	xie3	
+衣服	yi1 fu2	
+但是	dan4 shih4	
+叔叔	shu2 shu2	
+便攜	bian4 xi1	
+俄	e4	
+屌絲		
+看看		
+背刺		
+重開		
+重開機		
+重載		
+記得		
+高富帥		
+偽主權		
+教學		
+欸	ei4	
+液	yi4	
+現充		
+現實充		
+組機		
+蛋疼		
+部署	bu4 shu3	
+剩下		
+發文	fa1 wen2	
+硬辯		
+舒服	 shu1 fu2	
+傲嬌			
+嗎	ma1	
+媽寶		
+微	wei2 	
+微軟	wei2 ruan3	
+署	shu3	
+腦袋		
+試試		
+資料夾		
+遊戲中		
+漂亮	piao4 liang4	
+蒙古		
+認識	ren4 shi4	
+誒	ei4	
+閩南語		
+頗	po3	
+麼	mo1	
+價錢		
+噁	e3	
+噁心	e3 xin1	
+窮矮挫	qiong2 ai3 cuo4	
+課金		
+儲	chu2	
+儲	chu3		
+儲值	chu2 zhi2	
+擊	ji2	
+點擊	dian3 ji2	
+舊瓶新裝		
+亞	ya3
+裡面 li3 mian4
+意思 yi4 si1
+
