@@ -10,3 +10,6 @@ RIME terra_pinyin_extended 修改,符合臺灣人設置
 Some major change:
 - 裏 -> 裡
 - 爲 -> 為
+- 平均 一 的三種發音比例
+    - 原版的為:一聲 98%, 二聲: 1%, 四聲: 1%
+
