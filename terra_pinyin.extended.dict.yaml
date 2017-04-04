@@ -40,7 +40,7 @@ sort: by_weight
 use_preset_vocabulary: true
 #此處為地球拼音擴充詞庫（基本）默認鏈接載入的詞庫，有地球拼音官方詞庫。如果不需要加載某个詞庫請將其用「#」註釋掉。
 import_tables:
-  - terra_pinyin
+  #- terra_pinyin
   - terra_pinyin.my
 ...
 
@@ -70256,10 +70256,9 @@ import_tables:
 跉	ling2
 跊	mei4
 跋	ba2
-跌	die1
+跌	die2
 跌了彈的斑鳩	die2 le5 dan4 de5 ban1 jiu1
 跌交	die2 jiao1
-跌倒	die1 dao3
 跌倒	die2 dao3
 跌停板	die2 ting2 ban3
 跌價	die2 jia4
