@@ -42,7 +42,7 @@ key_binder:
     - {accept: equal, send: Page_Down, when: has_menu}
   import_preset: default
 menu:
-  alternative_select_keys: ABCDEFGHIJ
+  alternative_select_keys: ASDFGHJKL
 punctuator:
   full_shape:
     " ": {commit: "　"}
