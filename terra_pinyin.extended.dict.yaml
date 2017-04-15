@@ -18685,7 +18685,7 @@ import_tables:
 咬文嚼字	yao3 wen2 jiao2 zi4
 咬牙切齒	yao3 ya2 qie4 chi3
 咬群的騾子	yao3 qun2 de5 luo2 zi5
-咬耳朵	yao3 er3 duo5
+咬耳朵	yao3 er3 duo1
 咬舌子	yao3 she2 zi5
 咬舌頭	yao3 she2 tou5
 咬薑呷醋	yao3 jiang1 xia2 cu4
@@ -22935,7 +22935,7 @@ import_tables:
 大羹玄酒	tai4 geng1 xuan2 jiu3
 大老婆	da4 lao3 po5
 大而無當	da4 er2 wu2 dang4
-大耳朵	da4 er3 duo5
+大耳朵	da4 er3 duo1
 大聲吆喝	da4 sheng1 yao1 he4
 大肆抨擊	da4 si4 peng1 ji2
 大肚	da4 du4
@@ -26425,7 +26425,7 @@ import_tables:
 小缸缸兒	xiao3 gang1 gang5 r5
 小老婆	xiao3 lao3 po5
 小老婆子	xiao3 lao3 po5 zi5
-小耳朵	xiao3 er3 duo5
+小耳朵	xiao3 er3 duo1
 小聰明	xiao3 cong1 ming2
 小聰明	xiao3 cong1 ming5
 小肚雞腸	xiao3 du4 ji1 chang2
@@ -32423,7 +32423,7 @@ import_tables:
 扇面	shan4 mian4
 扇面對	shan4 mian4 dui4
 扇面琴	shan1 mian4 qin2
-扇風耳朵	shan1 feng1 er3 duo5
+扇風耳朵	shan1 feng1 er3 duo1
 扇馬	shan4 ma3
 扇骨子	shan4 gu3 zi5
 扈	hu4
@@ -32537,7 +32537,7 @@ import_tables:
 扎筏子	zha1 fa2 zi5
 扎縛	zha2 fu2
 扎罰子	zha1 fa2 zi5
-扎耳朵	zha1 er3 duo5
+扎耳朵	zha1 er3 duo1
 扎腳	zha2 jiao3
 扎花	zha1 hua1
 扎草	zha1 cao3
@@ -33589,7 +33589,7 @@ import_tables:
 拉鎖子	la1 suo3 zi5
 拉長	la1 chang2
 拉長線	la1 chang2 xian4
-拉長耳朵聽	la1 chang2 er3 duo5 ting1
+拉長耳朵聽	la1 chang2 er3 duo1 ting1
 拉長臉	la1 chang2 lian3
 拉開	la1 kai5
 拉飢荒	la1 ji1 huang5
@@ -40913,7 +40913,7 @@ import_tables:
 棉花店著火	mian2 hua1 dian4 zhao2 huo3
 棉花糖	mian2 hua1 tang2
 棉花糖	mian2 hua5 tang2
-棉花耳朵	mian2 hua1 er3 duo5
+棉花耳朵	mian2 hua1 er3 duo1
 棉薄之力	mian2 bo2 zhi1 li4
 棉都	mian2 du1
 棊	qi2
@@ -51845,7 +51845,7 @@ import_tables:
 盆地	pen2 di4
 盆子	pen2 zi5
 盆成括	pen2 cheng2 gua1
-盆罐都有耳朵	pen2 guan4 dou1 you3 er3 duo5
+盆罐都有耳朵	pen2 guan4 dou1 you3 er3 duo1
 盇	he2
 盈	ying2
 盈千累百	ying2 qian1 lei3 bai3
@@ -59595,12 +59595,13 @@ import_tables:
 耳挖子	er3 wa1 zi5
 耳摑子	er3 guo2 zi5
 耳朵	er3 duo5
-耳朵尖	er3 duo5 jian1
-耳朵帽	er3 duo5 mao4
-耳朵底子	er3 duo5 di3 zi5
-耳朵裡冒出腳來	er3 duo5 li3 mao4 chu1 jiao3 lai2
-耳朵裡響	er3 duo5 li5 xiang3
-耳朵軟	er3 duo5 ruan3
+耳朵	er3 duo1
+耳朵尖	er3 duo1 jian1
+耳朵帽	er3 duo1 mao4
+耳朵底子	er3 duo1 di3 zi5
+耳朵裡冒出腳來	er3 duo1 li3 mao4 chu1 jiao3 lai2
+耳朵裡響	er3 duo1 li5 xiang3
+耳朵軟	er3 duo1 ruan3
 耳根子	er3 gen1 zi5
 耳殼	er3 ke2
 耳消耳息	er3 xiao1 er3 xi2
@@ -69114,7 +69115,7 @@ import_tables:
 豎筆	shu4 bi3
 豎褐	shu4 he2
 豎起	shu4 qi5
-豎起耳朵	shu4 qi3 er3 duo5
+豎起耳朵	shu4 qi3 er3 duo1
 豏	xian4
 豐	feng1
 豐功偉績	feng1 gong1 wei3 ji1
@@ -69274,7 +69275,7 @@ import_tables:
 貓哭耗子	mao1 ku1 hao4 zi5
 貓溺	mao1 niao4
 貓眼兒	mao1 yan3 r5
-貓耳朵	mao1 er3 duo5
+貓耳朵	mao1 er3 duo1
 貔	pi2
 貔子	pi2 zi5
 貕	xi1
@@ -71026,7 +71027,7 @@ import_tables:
 軟著陸	ruan3 zhuo2 lu4
 軟瞇𥉐	ruan3 mi1 xi4
 軟罐頭	ruan3 guan4 tou5
-軟耳朵	ruan3 er3 duo5
+軟耳朵	ruan3 er3 duo1
 軟調脾	ruan3 tiao2 pi2
 軟釘子	ruan3 ding1 zi5
 軟骨頭	ruan3 gu2 tou5
