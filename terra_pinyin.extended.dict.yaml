@@ -8224,6 +8224,7 @@ import_tables:
 不差	bu4 cha1
 不差不錯	bu4 cha1 bu4 cuo4
 不差什麼	bu4 cha1 shen2 me5
+不差什麼	bu4 cha1 shen2 mo5
 不差毫釐	bu4 cha1 hao2 li2
 不差毫髮	bu4 cha1 hao2 fa3
 不差累黍	bu4 cha1 lei3 shu3
@@ -8283,7 +8284,9 @@ import_tables:
 不怕臊	bu4 pa4 sao4
 不怯氣	bu4 que4 qi4
 不恁麼	bu4 nen4 me5
+不恁麼	bu4 nen4 mo5
 不恁麼	bu4 ren4 me5
+不恁麼	bu4 ren4 mo5
 不息	bu4 xi2
 不悶	bu4 men4
 不惜	bu4 xi2
@@ -8520,6 +8523,7 @@ import_tables:
 不答理	bu4 da1 li3
 不答腔	bu4 da1 qiang1
 不算什麼	bu4 suan4 shen2 me5
+不算什麼	bu4 suan4 shen2 mo5
 不算數	bu4 suan4 shu4
 不管生癬生瘡	bu4 guan3 sheng1 xian3 sheng1 chuang1
 不終朝	bu4 zhong1 zhao1
@@ -10104,9 +10108,13 @@ import_tables:
 什剎海	shi2 cha4 hai3
 什襲珍藏	shi2 xi2 zhen1 cang2
 什麼	she2 me5
+什麼	she2 mo5
 什麼	shen2 me5
+什麼	shen2 mo5
 什麼地方	shen2 me5 di4 fang5
+什麼地方	shen2 mo5 di4 fang5
 什麼時候	shen2 me5 shi2 hou5
+什麼時候	shen2 mo5 shi2 hou5
 仁	ren2
 仁波切	ren2 bo1 qie4
 仁義	ren2 yi4
@@ -12120,6 +12128,7 @@ import_tables:
 做為	zuo4 wei2
 做甚	zuo4 shen2
 做甚麼道場	zuo4 shen2 me5 dao4 chang2
+做甚麼道場	zuo4 shen2 mo5 dao4 chang2
 做生意	zuo4 sheng1 yi5
 做的個	zuo4 de5 ge5
 做空頭	zuo4 kong4 tou2
@@ -17560,6 +17569,7 @@ import_tables:
 可不道	ke3 bu5 dao4
 可了不得	ke3 liao3 bu5 de5
 可什麼	ke3 shen2 me5
+可什麼	ke3 shen2 mo5
 可以燎原	ke3 yi3 liao2 yuan2
 可以燎原	ke3 yi3 liao4 yuan2
 可以為錯	ke3 yi3 wei2 cuo4
@@ -17597,6 +17607,7 @@ import_tables:
 可煞	ke3 sha4
 可煞作怪	ke3 sha4 zuo4 guai4
 可甚麼	ke3 shen2 me5
+可甚麼	ke3 shen2 mo5
 可看性	ke3 kan4 xing4
 可著頭做帽子	ke3 zhe5 tou2 zuo4 mao4 zi5
 可結合性	ke3 jie2 he2 xing4
@@ -22587,6 +22598,7 @@ import_tables:
 多露	duo1 lu4
 多頭市場	duo1 tou2 shi4 chang2
 多麼	duo2 me5
+多麼	duo2 mo5
 夛	duo1
 夜	ye4
 夜不歸宿	ye4 bu4 gui1 su4
@@ -23924,6 +23936,7 @@ import_tables:
 好高騖遠	hao4 gao1 wu4 yuan3
 好鬥	hao4 dou4
 好麼	hao3 ma5
+好麼	hao3 mo5
 奾	xian1
 奿	fan4
 妀	ji3
@@ -28390,6 +28403,7 @@ import_tables:
 幹事	gan4 shi5
 幹事長	gan4 shi5 zhang3
 幹什麼	gan4 shen2 me5
+幹什麼	gan4 shen2 mo5
 幹勁	gan4 jin4
 幹嗎	gan4 ma2
 幹嘛	gan4 ma2
@@ -28399,6 +28413,7 @@ import_tables:
 幹活兒	gan4 huo2 r5
 幹渠	gan4 qu2
 幹甚麼	gan4 shen2 me5
+幹甚麼	gan4 shen2 mo5
 幹當	gan4 dang4
 幹的停當	gan4 de5 ting2 dang4
 幹頭	gan4 tou5
@@ -30430,11 +30445,17 @@ import_tables:
 怎	zen3
 怎地	zen3 de5
 怎麼	ze3 me5
+怎麼	ze3 mo5
 怎麼了	zen3 me5 le5
+怎麼了	zen3 mo5 le5
 怎麼得了	zen3 me5 de2 liao3
+怎麼得了	zen3 mo5 de2 liao3
 怎麼搞的	ze3 me5 gao3 de5
+怎麼搞的	ze3 mo5 gao3 de5
 怎麼著	zen3 me5 zhao1
+怎麼著	zen3 mo5 zhao1
 怎麽	zen3 me5
+怎麽	zen3 mo5
 怏	yang4
 怏怏不樂	yang4 yang4 bu4 le4
 怐	ju4
@@ -32743,7 +32764,9 @@ import_tables:
 打獨磨	da3 du2 mo4
 打瓜子	da3 gua1 zi5
 打甚麼不緊	da3 shen2 me5 bu4 jin3
+打甚麼不緊	da3 shen2 mo5 bu4 jin3
 打甚麼緊	da3 shen2 me5 jin3
+打甚麼緊	da3 shen2 mo5 jin3
 打當	da3 dang1
 打發	da3 fa5
 打發時間	da3 fa1 shi2 jian1
@@ -43839,7 +43862,9 @@ import_tables:
 沒人當你是啞吧	mei2 ren2 dang4 ni3 shi4 ya3 ba5
 沒人處	mei2 ren2 chu4
 沒什麼	mei2 shen2 me5
+沒什麼	mei2 shen2 mo5
 沒什麼要緊	mei2 shen2 me5 yao4 jin3
+沒什麼要緊	mei2 shen2 mo5 yao4 jin3
 沒件好當眼的	mei2 jian4 hao3 dang1 yan3 de5
 沒住頭	mei2 zhu4 tou5
 沒來頭	mei2 lai2 tou5
@@ -43926,12 +43951,15 @@ import_tables:
 沒有不散的筵席	mei2 you3 bu4 san4 de5 yan2 xi2
 沒有主意	mei2 you3 zhu3 yi5
 沒有什麼道理	mei2 you3 shen2 me5 dao4 li3
+沒有什麼道理	mei2 you3 shen2 mo5 dao4 li3
 沒有勁頭	mei2 you3 jin4 tou2
 沒有勁頭兒	mei2 you3 jin4 tou2 r5
 沒有差別	mei2 you3 cha1 bie2
 沒有意思	mei2 you3 yi4 si5
 沒有甚麼	mei2 you3 shen2 me5
+沒有甚麼	mei2 you3 shen2 mo5
 沒有甚麼不可能	mei2 you3 shen2 me5 bu4 ke3 neng2
+沒有甚麼不可能	mei2 you3 shen2 mo5 bu4 ke3 neng2
 沒有聯繫	mei2 you3 lian2 xi4
 沒有規矩	mei2 you3 gui1 ju3
 沒有規矩	mei2 you3 gui1 ju5
@@ -43957,6 +43985,7 @@ import_tables:
 沒甚意思	mei2 shen2 yi4 si5
 沒甚首尾	mei2 shen2 shou3 wei3
 沒甚麼	mei2 shen2 me5
+沒甚麼	mei2 shen2 mo5
 沒留沒亂	mei2 liu2 mo4 luan4
 沒當家花花	mei2 dang1 jia1 hua1 hua1
 沒皮子	mei2 pi2 zi5
@@ -48408,6 +48437,7 @@ import_tables:
 為人行事	wei2 ren2 xing2 shi4
 為人解圍	wei4 ren2 jie3 wei2
 為什麼	wei4 shen2 me5
+為什麼	wei4 shen2 mo5
 為仁不富	wei2 ren2 bu2 fu4
 為仁不富	wei2 ren2 bu4 fu4
 為今之計	wei2 jin1 zhi1 ji4
@@ -48457,6 +48487,7 @@ import_tables:
 為淵敺魚	wei4 yuan1 qu1 yu2
 為準	wei2 zhun3
 為甚麼	wei4 shen2 me5
+為甚麼	wei4 shen2 mo5
 為生	wei2 sheng1
 為的吃穿	wei4 de5 chi1 chuan1
 為的是	wei4 de5 shi4
@@ -50265,15 +50296,25 @@ import_tables:
 甚的	shen2 de5
 甚至於	shen4 zhi4 yu2
 甚麼	she2 me5
+甚麼	she2 mo5
 甚麼	shen2 me5
+甚麼	shen2 mo5
 甚麼事	shen2 me5 shi4
+甚麼事	shen2 mo5 shi4
 甚麼人	shen2 me5 ren2
+甚麼人	shen2 mo5 ren2
 甚麼打緊	shen2 me5 da3 jin3
+甚麼打緊	shen2 mo5 da3 jin3
 甚麼是	shen2 me5 shi4
+甚麼是	shen2 mo5 shi4
 甚麼時候	shen2 me5 shi2 hou5
+甚麼時候	shen2 mo5 shi2 hou5
 甚麼東西	shen2 me5 dong1 xi5
+甚麼東西	shen2 mo5 dong1 xi5
 甚麼樣	shen2 me5 yang4
+甚麼樣	shen2 mo5 yang4
 甚麼的	shen2 me5 de5
+甚麼的	shen2 mo5 de5
 甛	tian2
 甜	tian2
 甜圈	tian2 quan1
@@ -56257,6 +56298,7 @@ import_tables:
 算不得	suan4 bu4 de2
 算不得	suan4 bu5 de2
 算什麼	suan4 shen2 me5
+算什麼	suan4 shen2 mo5
 算命先生	suan4 ming4 xian1 sheng5
 算子	suan4 zi3
 算子	suan4 zi5
@@ -67996,6 +68038,7 @@ import_tables:
 說不過	shuo1 bu5 guo4
 說不過去	shuo1 bu5 guo4 qu4
 說什麼也不能	shuo1 shen2 me5 ye3 bu4 neng2
+說什麼也不能	shuo1 shen2 mo5 ye3 bu4 neng2
 說來話長	shuo1 lai2 hua4 chang2
 說分上	shuo1 fen4 shang5
 說到曹操	shuo1 dao4 cao2 cao1
@@ -72118,7 +72161,9 @@ import_tables:
 這陣子	zhe4 zhen4 zi5
 這頭	zhe4 tou5
 這麼	zhe4 me5
+這麼	zhe4 mo5
 這麼著	zhe4 me5 zhao1
+這麼著	zhe4 mo5 zhao1
 通	tong1	99%
 通	tong4	1%
 通侻	tong1 tuo1
@@ -72965,7 +73010,9 @@ import_tables:
 那話兒	na4 hua4 r5
 那邊	na4 bian5
 那麼	na4 me5
+那麼	na4 mo5
 那麼著	na4 me5 zhao1
+那麼著	na4 mo5 zhao1
 邤	xin1
 邥	shen3
 邥垂	shen3 chui2
@@ -73494,6 +73541,7 @@ import_tables:
 醋娘子要食楊梅	cu4 niang2 zi5 yao4 shi2 yang2 mei2
 醋心	cu4 xin5
 醋打怎麼酸	cu4 da3 ze3 me5 suan1
+醋打怎麼酸	cu4 da3 ze3 mo5 suan1
 醋罈子	cu4 tan2 zi5
 醋罐子	cu4 guan4 zi5
 醌	kun1
@@ -82341,6 +82389,7 @@ import_tables:
 鹽埔鄉	yan2 bu4 xiang1
 鹽度	yan2 du4
 鹽打怎麼鹹	yan2 da3 ze3 me5 xian2
+鹽打怎麼鹹	yan2 da3 ze3 mo5 xian2
 鹽水選種	yan2 shui3 xuan3 zhong3
 鹽藏品	yan2 cang2 pin3
 鹽都	yan2 du1
@@ -82511,6 +82560,7 @@ import_tables:
 麻麻呼呼	ma2 ma5 hu1 hu1
 麻麻糊糊	ma2 ma5 hu2 hu2
 麼	me5
+麼	mo5
 麼	mo2
 麼些族	mo2 suo1 zu2
 麼娘	mo2 niang2
